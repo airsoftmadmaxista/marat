@@ -22,7 +22,7 @@ description: >
 tagline: vitam impendere vero
 location: Huesca (Aragón) [España]
 date: true
-baseurl: "/airsoftmadmaxista.github.io" # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: "http://airsoftmadmaxista.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: DespertaFerro
 google_analytics:
